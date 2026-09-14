@@ -2,7 +2,6 @@ export interface LinkItem {
   id: string;
   label: string;
   url: string;
-  clickCount?: number;
 }
 
 export interface Profile {
